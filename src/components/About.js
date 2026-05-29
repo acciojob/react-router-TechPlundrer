@@ -4,7 +4,7 @@ function About() {
     return (
         <div>
             <h2>About Us</h2>
-            <p>This is a Simple React Route Program.</p>
+            <p>This is a sample React Router program.</p>
         </div>
     );
 }
